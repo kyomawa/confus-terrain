@@ -113,7 +113,7 @@ export const homeCardData: HomeCardDataProps[] = [
     paragraph:
       "Explorez l'importance de la conservation des sols pour éviter un terrain confus et préserver sa santé.",
     linkName: "En savoir plus",
-    linkPath: "/conservationdessols",
+    linkPath: "/conservation",
   },
   {
     title:
@@ -121,7 +121,7 @@ export const homeCardData: HomeCardDataProps[] = [
     paragraph:
       "Découvrez des stratégies de gestion durable de l'eau pour prévenir un terrain confus et maintenir la clarté ainsi que l'équilibre de votre environnement.",
     linkName: "En savoir plus",
-    linkPath: "/gestiondeleau",
+    linkPath: "/gestion",
   },
   {
     title:
@@ -136,28 +136,28 @@ export const homeCardData: HomeCardDataProps[] = [
     paragraph:
       "Les terrains confus à Paris sont au cœur d'une polémique intense. Découvrons les différents points de vue et les enjeux qui entourent ces espaces urbains en transition.",
     linkName: "En savoir plus",
-    linkPath: "/PolemiqueTerrainsConfusParis",
+    linkPath: "/polemique",
   },
   {
     title: "Vente Terrain Confus",
     paragraph:
       "Découvrez comment et où acheter des terrains confus à Paris et dans d'autres régions, ainsi que les opportunités d'investissement qu'ils offrent.",
     linkName: "En savoir plus",
-    linkPath: "/VenteTerrainConfus",
+    linkPath: "/vente",
   },
   {
     title: "Terrains Confus de Paris",
     paragraph:
       "Apprenez tout sur les terrains confus de Paris, leur emplacement, leur importance et les défis associés à leur gestion.",
     linkName: "En savoir plus",
-    linkPath: "/TerrainsConfusDeParis",
+    linkPath: "/paris",
   },
   {
     title: "Histoire des Terrains Confus de Paris",
     paragraph:
       "Découvrez l'histoire fascinante des terrains confus de Paris, de leur origine à leur rôle actuel dans la ville.",
     linkName: "En savoir plus",
-    linkPath: "/HistoireTerrainsConfusDeParis",
+    linkPath: "/histoire",
   },
 ];
 
