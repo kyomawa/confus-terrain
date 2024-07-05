@@ -21,7 +21,7 @@ export default function HomeCard({
       </div>
       <Link
         href={linkPath}
-        className="rounded-lg bg-gradient-to-r from-primary-500 to-primary-600 px-4 py-2 text-neutral-50 hover:opacity-85"
+        className="rounded-lg bg-gradient-to-r from-primary-500 to-primary-600 px-4 py-2 text-neutral-50 transition-opacity duration-200 hover:opacity-85"
       >
         {linkName}
       </Link>

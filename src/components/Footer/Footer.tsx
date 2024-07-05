@@ -13,7 +13,7 @@ export default function Footer() {
         </div>
         <ul className="flex gap-x-4">
           {footerLinks.map((link) => (
-            <li key={link.href} className="hover:opacity-80">
+            <li key={link.href} className="text-center hover:opacity-80">
               <Link href={link.href}>{link.label}</Link>
             </li>
           ))}
