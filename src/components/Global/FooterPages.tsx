@@ -33,7 +33,6 @@ export default function FooterPages({
             src={firstImageSrc}
             alt={firstImageAlt}
             priority
-            placeholder="blur"
             fill
           />
         </div>
@@ -46,7 +45,6 @@ export default function FooterPages({
               src={secondImageSrc}
               alt={secondImageAlt}
               priority
-              placeholder="blur"
               fill
             />
           </div>
@@ -59,7 +57,6 @@ export default function FooterPages({
               src={thirdImageSrc}
               alt={thirdImageAlt}
               priority
-              placeholder="blur"
               fill
             />
           </div>

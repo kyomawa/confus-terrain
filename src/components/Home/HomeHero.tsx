@@ -23,7 +23,6 @@ export default function HomeHero({
         className="size-full rounded-3xl object-cover brightness-[0.45] transition-transform duration-300 group-hover/plantation:scale-105"
         width="1336"
         height="556"
-        placeholder='blur'
         alt={imageAlt}
         src={imageSrc}
       />

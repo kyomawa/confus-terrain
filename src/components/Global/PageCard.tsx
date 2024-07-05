@@ -15,7 +15,6 @@ export default function PageCard({ title, imageAlt, imageSrc }: PageCardProps) {
           src={imageSrc}
           alt={imageAlt}
           priority
-          placeholder="blur"
           fill
         />
       </div>

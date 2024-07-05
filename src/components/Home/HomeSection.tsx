@@ -41,7 +41,6 @@ export default function HomeSection({
           className="rounded-2xl object-cover"
           src={imageSrc}
           alt={imageAlt}
-          placeholder='blur'
           fill
         />
       </div>

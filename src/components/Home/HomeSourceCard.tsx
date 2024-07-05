@@ -25,7 +25,6 @@ export default function HomeSourceCard({
         className="rounded-xl object-cover"
         src={imageSrc}
         alt={imageAlt}
-        placeholder='blur'
         fill
       />
       <span className="absolute bottom-0 z-10 w-full translate-y-12 bg-primary-950/85 py-2 text-center font-pally text-xl text-neutral-50 transition-all duration-300 group-hover/homesourcecard:-translate-y-0">

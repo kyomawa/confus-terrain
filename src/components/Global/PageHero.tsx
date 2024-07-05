@@ -23,7 +23,6 @@ export default function PageHero({
         <Image
           className="rounded-3xl object-cover"
           src={imageSrc}
-          placeholder="blur"
           alt={imageAlt}
           priority
           fill

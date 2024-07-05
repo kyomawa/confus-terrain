@@ -30,7 +30,6 @@ export default function PageCard2Section({
             objectFit="cover"
             priority
             fill
-            placeholder='blur'
           />
         </div>
         <p>{content}</p>
@@ -42,7 +41,6 @@ export default function PageCard2Section({
           alt={image.alt}
           objectFit="cover"
           priority
-          placeholder='blur'
           fill
         />
       </div>
