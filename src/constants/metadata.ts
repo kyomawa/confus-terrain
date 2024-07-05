@@ -171,7 +171,6 @@ export const commonMetadata: Metadata = {
 // ==========================================================================================================
 
 export const homeMetadata: Metadata = {
-  title: "Accueil",
   description:
     "Bienvenue sur Terrains Confus de Paris, un projet dédié à l'exploration de la biodiversité, la conservation des sols, et la gestion de l'eau à Paris.",
   keywords:
